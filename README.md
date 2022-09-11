@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mannawar
 - 👀 I’m interested in ...coding, learning to solve the problems
-- 🌱 I’m currently working on Docker deployment, amazon ami, gcp, Postgres, Angular and Sails
+- 🌱 I’m currently working on C# development and asp.net using EF
 - 💞️ I’m looking to collaborate on ... Kubernetes deployment.
 - 📫 How to reach me ... Please reach me at dearmannawar@gmail.com
 
