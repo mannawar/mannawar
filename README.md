@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mannawar
 - 👀 I’m interested in ...coding, learning to solve the problems
-- 🌱 I’m currently working on C# development and asp.net projects
+- 🌱 I’m currently working on Java and C# development projects.
 - 💞️ I’m looking to collaborate on ... Kubernetes deployment.
 - 📫 How to reach me ... Please reach me at dearmannawar@gmail.com
 
