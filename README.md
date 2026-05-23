@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mannawar
+- 👋 Hi, I’m @bugkiller
 - 👀 I’m interested in ...coding, learning to solve the problems
 - 🌱 I’m currently working on Java and C# development projects.
 - 💞️ I’m looking to collaborate on ... Kubernetes deployment.
